@@ -21,7 +21,7 @@ function Detected() {
       // Loading the model from github raw file
       let my_model
       try{
-        my_model = await tf.loadGraphModel('https://raw.githubusercontent.com/Couch-potato29/tfmod/model_with_phrases/model.json')
+        my_model = await tf.loadGraphModel('https://raw.githubusercontent.com/Couch-potato29/Wayne-Sight/master/tfmod-model_with_phrases/model.json')
         SetIsModelLoading(false)
       }
       catch(error){
