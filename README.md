@@ -17,6 +17,19 @@ I have used Tensorflow 2.0 GPU to train the model on the custom images.
 To make it a web application, the model was converted to a Tensorflow JS model
 which is currently being served from this repository. This model is then imported into a react application.
 
+### Signs it can recognise for now:
+1) Hello
+2) Nice
+3) To Meet You
+4) Where
+5) You
+6) From
+7) My
+8) Name
+9) What's Up
+10) Learn
+11) Sign
+
 ### Problems Faced:
 Intially, the app would detect letters of the english alphabet, but the main challenge was in detecting the
 phrases which have signs that involve moving the hands and it is not a stationary sign.
