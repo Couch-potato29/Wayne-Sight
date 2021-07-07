@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.ipynb": "jupyter",
-        "CIRCL_Q.C": "cpp",
-        "LINKLIST.C": "cpp"
-    }
-}
