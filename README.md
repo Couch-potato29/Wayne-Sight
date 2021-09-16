@@ -41,3 +41,5 @@ The App takes around 3-4 seconds to display the detected sign.
 ### How to run the app:
 1) After cloning the repository, run the **npm install** command in the same directory.
 2) next run the **npm start** command in the terminal in the same directory.
+
+Hello There
